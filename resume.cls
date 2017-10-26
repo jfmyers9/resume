@@ -25,8 +25,8 @@
 \renewcommand{\footrulewidth}{0pt}
 
 % adjust margins
-\addtolength{\oddsidemargin}{-0.2in}
-\addtolength{\evensidemargin}{-0.2in}
+\addtolength{\oddsidemargin}{-0.3in}
+\addtolength{\evensidemargin}{-0.5in}
 \addtolength{\textwidth}{.6in}
 \addtolength{\topmargin}{-.2in}
 \addtolength{\textheight}{0.6in}
