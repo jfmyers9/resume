@@ -26,7 +26,7 @@
 
 % adjust margins
 \addtolength{\oddsidemargin}{-0.3in}
-\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.3in}
 \addtolength{\textwidth}{.6in}
 \addtolength{\topmargin}{-.2in}
 \addtolength{\textheight}{0.6in}
